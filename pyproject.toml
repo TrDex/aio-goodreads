@@ -3,6 +3,7 @@ name = "aio-goodreads"
 version = "0.1.0"
 description = "Asyncronous Python wrapper for Goodreads API"
 authors = ["Mykola Solodukha <mykola.soloduha@gmail.com>"]
+license = "MIT License"
 
 [tool.poetry.dependencies]
 python = "^3.9"
